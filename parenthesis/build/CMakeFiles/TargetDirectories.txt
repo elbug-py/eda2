@@ -1,0 +1,3 @@
+/home/elbug/Desktop/EDA 2/eda_cpp/parenthesis/build/CMakeFiles/test.dir
+/home/elbug/Desktop/EDA 2/eda_cpp/parenthesis/build/CMakeFiles/edit_cache.dir
+/home/elbug/Desktop/EDA 2/eda_cpp/parenthesis/build/CMakeFiles/rebuild_cache.dir

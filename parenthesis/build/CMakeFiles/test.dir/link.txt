@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/test.dir/test/check_tags.cpp.o CMakeFiles/test.dir/src/node.cpp.o CMakeFiles/test.dir/src/stack.cpp.o -o test 
