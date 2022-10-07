@@ -9,5 +9,5 @@ Compiling with CMake
 - make
 
 Running
-- ./test
+- ./test "input.html"
 
